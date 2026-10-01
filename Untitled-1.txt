@@ -1,0 +1,1 @@
+const firebaseConfig={apiKey:"AIzaSyBXX0sTwY_o8RWXtx8D4xMhesgTaG2fsMQ",authDomain:"grow-study-7a14c.firebaseapp.com",databaseURL:"https://grow-study-7a14c-default-rtdb.firebaseio.com",projectId:"grow-study-7a14c",storageBucket:"grow-study-7a14c.firebasestorage.app",messagingSenderId:"567882221771",appId:"1:567882221771:web:4e9ef1ba6018a76d9db34e"};
